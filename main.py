@@ -133,10 +133,10 @@ def save_to_csv(results, output_file):
 # OAuth 2.0 setup
 CLIENT_CONFIG = {
     "web": {
-        "client_id": "1072985826980-pqcn6vlukciua6pvf63909a8nef65i95.apps.googleusercontent.com",
-        "client_secret": "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",
-        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-        "token_uri": "https://oauth2.googleapis.com/token",
+        "client_id": "",
+        "client_secret": "",
+        "auth_uri": "",
+        "token_uri": "",
     }
 }
 
